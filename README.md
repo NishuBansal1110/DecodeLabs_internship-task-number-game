@@ -16,3 +16,26 @@ A basic ATM simulation using Object-Oriented Programming that allows users to:
 - Deposit Money
 - Withdraw Money
 
+  1. Clone the repository:
+
+git clone https://github.com/NishuBansal1110/DecodeLabs_internship-tasks.git
+
+
+2. Navigate to the project folder:
+
+cd DecodeLabs_internship-tasks
+
+
+3. Compile the Java files:
+
+javac DecodeLabs_Java_P1.java
+javac DecodeLabs_Java_P2.java
+javac DecodeLabs_Java_P3.java
+
+
+4. Run any project:
+
+java DecodeLabs_Java_P1
+java DecodeLabs_Java_P2
+java DecodeLabs_Java_P3
+
